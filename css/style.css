@@ -52,3 +52,8 @@ body {
 a {
 	color: #d21034;
 }
+
+a:visited {
+    color: green;
+}
+
